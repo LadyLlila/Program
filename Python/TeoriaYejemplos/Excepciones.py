@@ -63,7 +63,7 @@ def elegirFruta(listaFrutas):
         print(f"Tu fruta favorita es: {listaFrutas[index]}")
     except IndexError:
         print("Esa posición no existe!")
-    except ValueError:
+    except ValueError:       
         print(f"Tienes que poner un número entre 0 y {len(listaFrutas)-1}")
 
 elegirFruta(frutas)

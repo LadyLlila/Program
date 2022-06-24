@@ -1,7 +1,7 @@
 
 class Perro:
     #Variable de clase
-    animal = "perro"
+    #animal = "perro"
 
     def __init__(self, raza, edad, color):
     #-----|| ATRIBUTOS - VARIABLES DE INSTANCIA ||--------

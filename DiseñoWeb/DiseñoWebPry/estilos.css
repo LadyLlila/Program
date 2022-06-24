@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background: url("imagen1.jpg");   
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+
+table {
+    color: #ffffff;
+    font-family: Georgia;
+    font-weight: 900;
+    font-size: 20px
+}
+
+h1 {
+    color: #DCC865;
+    font-size: 5em;
+    font-family: 'Cormorant Garamond', "Light";
+    font-weight: 900;
+
+}

@@ -31,3 +31,4 @@ def suma(param1, param2):
 suma("Leo","Joel")
 sumaVariable = suma(1,2)
 suma(1,sumaVariable)
+suma("Pri", 3)
